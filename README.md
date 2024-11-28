@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Official profile at the SOICT: https://soict.hust.edu.vn/ths-nguyen-duc-tien.html
+
 <!--
 **neittien0110/neittien0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
